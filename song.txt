@@ -25,3 +25,5 @@
 В нашем смехе и в наших слезах, и в пульсации вен: "Перемен! Мы ждем перемен!"
 
 add line for first commit
+
+add line for second commit
